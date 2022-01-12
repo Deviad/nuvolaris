@@ -20,3 +20,4 @@ bin/*
 .docker-pid
 kubeconfig
 .DS_Store
+.idea

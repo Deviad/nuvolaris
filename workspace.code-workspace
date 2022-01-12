@@ -44,6 +44,10 @@
 			"activityBar.background": "#0d89d7",
 			"titleBar.activeBackground": "#0d89d7",
 			"titleBar.activeForeground": "#0d89d7"
-		}
+		},
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"java.completion.enabled": false,
+		"java.debug.settings.enableRunDebugCodeLens": false,
+		"java.test.editor.enableShortcuts": false
 	}
 }
